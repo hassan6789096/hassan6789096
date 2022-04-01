@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-hassan6789096/hassan6789096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hassan6789096/hassan6789096 is a ✨ special ✨ repository because its `hassan6789096` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
